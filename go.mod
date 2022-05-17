@@ -10,7 +10,7 @@ require (
 	github.com/go-kit/kit v0.12.0
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/gorilla/mux v1.8.0
-	github.com/lopezator/migrator v0.3.0
+	github.com/lopezator/migrator v0.3.1
 	github.com/mattn/go-sqlite3 v1.14.13
 	github.com/moov-io/base v0.29.2
 	github.com/pariz/gountries v0.1.5
